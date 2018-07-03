@@ -1,0 +1,4 @@
+[24-Oct-2017 05:09:56 CST6CDT] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/danhoste/public_html/danhostelskabelon.dk/wp-content/themes/dh_web_2/includes/facebook-right.php on line 27
+[24-Oct-2017 06:27:05 CST6CDT] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/danhoste/public_html/danhostelskabelon.dk/wp-content/themes/dh_web_2/includes/facebook-right.php on line 27
+[05-Nov-2017 01:39:44 CST6CDT] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/danhoste/public_html/danhostelskabelon.dk/wp-content/themes/dh_web_2/includes/facebook-right.php on line 27
+[08-Dec-2017 04:52:38 CST6CDT] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/danhoste/public_html/danhostelskabelon.dk/wp-content/themes/dh_web_2/includes/facebook-right.php on line 27
