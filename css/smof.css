@@ -1,0 +1,87 @@
+[class^="icon-"]:before,
+[class*=" icon-"]:before
+{
+  font-family:FontAwesome;
+  font-weight:normal;
+  font-style:normal;
+  display:inline-block;
+  text-decoration:inherit
+}
+
+li [class^="icon-"], .nav li [class^="icon-"], 
+li [class*=" icon-"], .nav li [class*=" icon-"] {
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+}
+
+.leftfloater{float:left; width:100%}
+.borderino{padding: 0 25px}
+.page-title strong{font-weight:bold;}
+.gfield_label{font-size:14px !important}
+
+.street_address, .phone_number, .email_address, .vaert, .cvr, .office_hours{
+	padding-left: 3.0em;
+	text-indent: -3.17em;
+}
+
+.sted_navn{margin-bottom:10px;}
+
+.street_address:before {
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	width: 1.25em;
+	text-align:center;	
+	padding-left: 20px;
+	content: '\f041';  
+}
+
+.office_hours:before {
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	width: 1.25em;
+	text-align:center;	
+	padding-left: 20px;
+	content: '\f017';  
+}
+
+.phone_number:before{
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	padding-left: 20px;
+	width: 1.25em;
+	text-align:center;
+	content: '\f095'; 
+}
+.email_address:before{
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	padding-left: 20px;
+	width: 1.25em;;
+	text-align:center;
+	content: '\f003';
+}
+
+.vaert:before{
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	padding-left: 20px;
+	width: 1.25em;
+	text-align:center;
+
+	content: '\f007';
+}
+.cvr:before{
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 20px;
+	padding-left: 20px;
+	width: 1.25em;
+	text-align:center;
+	content: '\f0b1'; 
+}
